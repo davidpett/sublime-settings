@@ -1,0 +1,29 @@
+{
+	"auto_upgrade_last_run": 1345482022,
+	"installed_packages":
+	[
+		"Backbone.js",
+		"Case Conversion",
+		"Clipboard Manager",
+		"CSScomb",
+		"Git",
+		"JsMinifier",
+		"LESS",
+		"LoremIpsum",
+		"Markdown Preview",
+		"MDN Search",
+		"Nodejs",
+		"Package Control",
+		"Prefixr",
+		"Schemr",
+		"SCSS",
+		"SFTP",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"Tag",
+		"Theme - Night",
+		"Theme - Soda",
+		"zenburn",
+		"ZenCoding"
+	]
+}
