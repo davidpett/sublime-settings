@@ -1,5 +1,5 @@
 {
-	"auto_upgrade_last_run": 1345496877,
+	"auto_upgrade_last_run": 1345570027,
 	"installed_packages":
 	[
 		"Backbone.js",
@@ -20,6 +20,8 @@
 		"SublimeCodeIntel",
 		"SublimeLinter",
 		"Tag",
+		"Theme - Aqua",
+		"Theme - Nil",
 		"Theme - Soda",
 		"zenburn",
 		"ZenCoding"
