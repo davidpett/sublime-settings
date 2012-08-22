@@ -1,9 +1,10 @@
-{
+  {
     "auto_indent": true,
     "auto_match_enabled": true,
     "caret_style": "smooth",
     "close_windows_when_empty": true,
     "color_scheme": "Packages/zenburn/zenburn.tmTheme",
+    "default_line_ending": "unix",
     "detect_indentation": true,
     "dictionary": "Packages/Language - English/en_US.dic",
     "draw_centered": false,
@@ -12,17 +13,11 @@
     "draw_white_space": "selection",
     "ensure_newline_at_eof_on_save": false,
     "fade_fold_buttons": false,
-    "fallback_encoding": "Western (Windows 1252)",
+    "fallback_encoding": "UTF-8",
     "file_exclude_patterns":
     [
         "*.tmLanguage.cache",
         "*.tmPreferences.cache",
-        "*.psd",
-        "*.psb",
-        "*.png",
-        "*.gif",
-        "*.jpg",
-        "*.jpeg",
         "Gemfile.lock",
         "*.pyc",
         "*.pyo",
@@ -41,13 +36,8 @@
         "*.pdb",
         "*.idb",
         ".DS_Store",
-        "*.pdf",
         "*.class",
-        "*.mov",
-        "*.mp3",
-        "*.mp4",
         ".rvmrc",
-        "*.swf",
         "*.xls",
         "*.bak",
         "*.backup",
@@ -66,14 +56,15 @@
         "*.tiles",
         ".hg",
         ".hgcheck",
-        ".senchasdk"
+        ".senchasdk",
+        ".svn"
     ],
     "font_face": "Menlo",
     "font_options":
     [
         "subpixel_antialias"
     ],
-    "font_size": 16,
+    "font_size": 18,
     "gutter": true,
     "highlight_line": true,
     "highlight_modified_tabs": true,
@@ -105,8 +96,8 @@
     "rulers":
     [
     ],
-    "save_on_focus_lost": false,
-    "scroll_past_end": true,
+    "save_on_focus_lost": true,
+    "scroll_past_end": false,
     "shift_tab_unindent": true,
     "show_tab_close_buttons": false,
     "spell_check": false,
@@ -121,4 +112,4 @@
     "word_separators": "./\\()\"'-:,.;<>~!@#$%^&*|+=[]{}`~?",
     "word_wrap": true,
     "wrap_width": 0
-}
+  }
