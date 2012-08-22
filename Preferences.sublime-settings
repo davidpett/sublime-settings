@@ -11,7 +11,7 @@
 		"Vintage"
 	],
 	"match_brackets": true,
-	"open_files_in_new_window": true,
+	"open_files_in_new_window": false,
 	"remember_open_files": false,
 	"save_on_focus_lost": true,
 	"tab_size": 4,
