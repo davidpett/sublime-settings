@@ -1,4 +1,4 @@
-  {
+{
     "auto_indent": true,
     "auto_match_enabled": true,
     "caret_style": "smooth",
@@ -104,7 +104,7 @@
     "tab_completion": true,
     "tab_size": 4,
     "theme": "Nil.sublime-theme",
-    "translate_tabs_to_spaces": false,
+    "translate_tabs_to_spaces": true,
     "trim_automatic_white_space": true,
     "trim_trailing_white_space_on_save": true,
     "use_simple_full_screen": false,
@@ -112,4 +112,4 @@
     "word_separators": "./\\()\"'-:,.;<>~!@#$%^&*|+=[]{}`~?",
     "word_wrap": true,
     "wrap_width": 0
-  }
+}
